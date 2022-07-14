@@ -23,3 +23,5 @@
 1. Google
 2. Python.org Documentation
 3. github repositories
+
+# Training dataset is not included beacause of its large size
