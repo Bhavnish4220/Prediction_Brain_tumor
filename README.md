@@ -24,4 +24,4 @@
 2. Python.org Documentation
 3. github repositories
 
-## (Training dataset is not included beacause of its large size)
+## (Training dataset is not included because of its large size)
